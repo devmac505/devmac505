@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devmac505
+- 👋 Hi, I’m akiimackie
 - 👀 I’m interested in Software Engeneering
 - 🌱 I’m currently learning JavaScrip and MERN Stack
 - 💞️ I’m looking to collaborate on big projects
